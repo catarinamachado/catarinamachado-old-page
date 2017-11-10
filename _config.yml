@@ -10,7 +10,16 @@ google_analytics: 'UA-58555211-1'
 
 # Details for the RSS feed generator
 url:            'catarinaamachado.github.io/'
-author:         'Catarina Machado'
+
+author:
+    name: Catarina Machado
+    thumb: /desktop/profile.JPG
+    bio: Web Developer e estudante de Sistemas de Informação. De vez enquando durmo um pouco.
+    url:
+        facebook: 'https://www.facebook.com/catarinaamachado'
+        linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
+        email: 'catarinamachado11@gmail.com'
+
 
 urls:
     about: /about
