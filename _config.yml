@@ -1,4 +1,4 @@
-name: Catarina Machado
+name: Catarina Machado 1
 description: Computer Software Engineering Student
 
 markdown: kramdown
@@ -10,8 +10,12 @@ google_analytics: 'UA-58555211-1'
 
 # Details for the RSS feed generator
 url:            'catarinaamachado.github.io/'
-author:         'Catarina Machado'
-
+author:
+    name: Catarina Machado
+    url:
+        facebook: 'https://www.facebook.com/catarinaamachado'
+        linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
+        email: 'catarinamachado11@gmail.com'
 
 urls:
     about: /about
