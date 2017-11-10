@@ -1,13 +1,13 @@
-name: Catarina Machado
+name: Catarina Machado 1
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
-paginate: 15
+logo: true
+paginate: 30
 baseurl: /
-domain_name: 'catarinaamachado.github.io/about'
+domain_name: 'catarinaamachado.github.io/about/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
