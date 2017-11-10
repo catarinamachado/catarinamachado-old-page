@@ -14,16 +14,7 @@ url: 'http://catarinaamachado.github.io/'
 author:
     name: 'Catarina Machado'
     thumb: '/assets/images/profile.png'
-
-#author:
-#    name: Catarina Machado
-#    thumb: /assets/images/profile.png
-#    url:
-#        facebook: 'https://www.facebook.com/catarinaamachado'
-#        linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
-#        email: 'catarinamachado11@gmail.com'
-
-
+    
 urls:
     about: /about
 
