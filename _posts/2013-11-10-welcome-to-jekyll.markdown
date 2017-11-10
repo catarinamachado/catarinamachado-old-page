@@ -1,24 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
+title:  "Bomberman School Project"
+date:   2017-11-10 23:02:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+“Bomberman” was a school project made in the 1st semester (Oct 2016 – Jan 2017) of the 1st year of the Computer Software Engineering course at Computer Labs I. 
 
-Jekyll also offers powerful support for code snippets:
+The project consists on small Haskell applications that should respond to different tasks. The goal is to implement the classic Bomberman game in battle mode. The overall idea of the game is to strategically place bombs to kill enemies and destroy obstacles on the map. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+So, it was a game programed in Haskell and contributed to a greater practice of this functional programming language. It also contributed to deepening our knowledge of LaTeX, because we had to make a final report of the work. 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+It was a pair assignment and we got a final grade of 17.
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Check out the Bomberman's project [here][bomberman].
+
+[bomberman]: https://github.com/catarinaamachado/bomberman
