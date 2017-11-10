@@ -45,8 +45,10 @@ about: 'about.html'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="/assets/images/profile.png" alt="Author's profile picture" nopin="nopin" />
-                {{ site.author }}
+                <a href="{{site.urls.about}}">
+                    <img class="author-thumb" src="{{site.author.thumb}}" alt="imagem do perfil de {{site.author.name}}" nopin="nopin" />
+                    {{ site.author.name }}
+                </a>
             {% endif %}
             {% if post.categories.size > 0 %}
                 {{ post.categories | array_to_sentence_string | prepend: 'on ' }}

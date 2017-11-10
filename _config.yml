@@ -5,15 +5,15 @@ markdown: kramdown
 highlighter: rouge
 paginate: 15
 baseurl: /
-domain_name: 'catarinaamachado.github.io/'
+domain_name: 'http://catarinaamachado.github.io/'
 google_analytics: 'UA-58555211-1'
 
 # Details for the RSS feed generator
-url:            'catarinaamachado.github.io/'
+url: 'http://catarinaamachado.github.io/'
 
 author:
     name: Catarina Machado
-    thumb: /desktop/profile.JPG
+    thumb: /assets/images/profile.png
     url:
         facebook: 'https://www.facebook.com/catarinaamachado'
         linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
