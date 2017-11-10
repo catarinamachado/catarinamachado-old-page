@@ -10,12 +10,7 @@ google_analytics: 'UA-58555211-1'
 
 # Details for the RSS feed generator
 url:            'catarinaamachado.github.io/'
-author:
-    name: Catarina Machado
-    url:
-        facebook: 'https://www.facebook.com/catarinaamachado'
-        linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
-        email: 'catarinamachado11@gmail.com'
+author:         'Catarina Machado'
 
 urls:
     about: /about
