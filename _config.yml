@@ -7,8 +7,11 @@ paginate: 15
 baseurl: /
 domain_name: 'catarinaamachado.github.io/'
 google_analytics: 'UA-58555211-1'
-gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'catarinaamachado.github.io/'
 author:         'Catarina Machado'
+
+
+urls:
+    about: /about
