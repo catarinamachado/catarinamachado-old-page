@@ -14,7 +14,12 @@ url: 'http://catarinaamachado.github.io/'
 author:
     name: 'Catarina Machado'
     thumb: '/assets/images/profile.png'
-    
+    bio: Computer Software Engineering Student
+    url:
+      facebook: 'https://www.facebook.com/catarinaamachado'
+      linkedin: 'https://www.linkedin.com/in/catarinaamachado/'
+      email: 'catarinamachado11@gmail.com'
+
 urls:
     about: /about
 
