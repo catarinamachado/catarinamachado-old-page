@@ -1,16 +1,14 @@
 name: Catarina Machado 12
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: Computer Software Engineering Student
 
 markdown: kramdown
-highlighter: pygments
-logo: false
-paginate: 30
+highlighter: rouge
+paginate: 15
 baseurl: /
-domain_name: 'catarinaamachado.github.io/about/'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'catarinaamachado.github.io/'
+google_analytics: 'UA-58555211-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'catarinaamachado.github.io/'
+author:         'Catarina Machado'
