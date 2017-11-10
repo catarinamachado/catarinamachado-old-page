@@ -12,8 +12,8 @@ google_analytics: 'UA-58555211-1'
 url: 'http://catarinaamachado.github.io/'
 
 author:
-    name: Catarina Machado
-    thumb: /assets/images/profile.png
+    name: 'Catarina Machado'
+    thumb: '/assets/images/profile.png'
 
 #author:
 #    name: Catarina Machado
