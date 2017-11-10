@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'catarinaamachado.github.io'
+domain_name: 'catarinaamachado.github.io/about'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
