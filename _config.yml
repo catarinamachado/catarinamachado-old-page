@@ -4,7 +4,7 @@ description: Computer Software Engineering Student
 markdown: kramdown
 highlighter: rouge
 paginate: 15
-baseurl: /
+baseurl: 'http://catarinaamachado.github.io/'
 domain_name: 'http://catarinaamachado.github.io/'
 google_analytics: 'UA-58555211-1'
 
