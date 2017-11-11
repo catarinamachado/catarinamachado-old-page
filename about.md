@@ -48,11 +48,6 @@ Contacts:
   color: white;
 }
 
-.fa-google {
-  background: #dd4b39;
-  color: white;
-}
-
 .fa-linkedin {
   background: #007bb5;
   color: white;
@@ -62,11 +57,11 @@ Contacts:
 <body>
 
 
-<center><a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
-<a href="https://github.com/catarinaamachado" class="fa fa-github"></a>
-<a href="#" class="fa fa-google"></a>
-<a href="mailto:{{site.author.url.email}}"{{site.author.url.email}} class="fa fa-google"></a>
-<a href="https://www.linkedin.com/in/catarinaamachado/" class="fa fa-linkedin"></a></center>
+<center>
+<a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
+<a ({{site.author.url.github}}) class="fa fa-github"></a>
+<a href="https://www.linkedin.com/in/catarinaamachado/" class="fa fa-linkedin"></a>
+</center>
 
 
 </body>
