@@ -4,14 +4,12 @@ title: About me
 cover: '/assets/images/tecnology.png'
 ---
 
-Hi! My name is <b>Catarina</b> and I’m 19 years old. Currently I’m on 2nd year in the Computer Software Engineering course at University of Minho.
+Hi! My name is <b>Catarina</b> and I'm a 19-year-old student in the 2nd year of the Computer Software Engineering course at University of Minho.
 
-My goal is to do my best in everything I do.
+My goal is to do excel in everything I do, at all times, regardless of what it may take.
+Ever since I've been familiarized with the concept of <b>programming</b>, I knew this was what I wanted my career to be based on and, as my academic journey progresses, I'm increasingly sure that Informatics is the scientific and professional universe in which I want to take part for life.
 
-Since i meet programming i knew there is it i want to do in my daily life and is on the informatics area that i want to be involved forever.
-
-I love challenges, and what inspires me is the fact that is a billion of things to learn and i want to learn as much that i can, and overcome myself every day.
-
+I love <b>challenges</b> and I'm greatly inspired by the extent of knowledge there is still for me to acquire and by the room for personal improvement that such constitutes.
 
 
 Contacts:
