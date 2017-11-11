@@ -62,7 +62,7 @@ Contacts:
 <body>
 
 
-<a href={site.author.url.facebook} class="fa fa-facebook"></a>
+<a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-github"></a>
 <a href="#" class="fa fa-google"></a>
 <a href="#" class="fa fa-linkedin"></a>
