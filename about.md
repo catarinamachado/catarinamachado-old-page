@@ -25,13 +25,13 @@ Contacts:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  padding: 10px;
+  font-size: 15px;
+  width: 15px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
+  margin: 3px 1px;
+  border-radius: 25%;
 }
 
 .fa:hover {
@@ -62,7 +62,7 @@ Contacts:
 <body>
 
 
-<a href=href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-github"></a>
 <a href="#" class="fa fa-google"></a>
 <a href="#" class="fa fa-linkedin"></a>
