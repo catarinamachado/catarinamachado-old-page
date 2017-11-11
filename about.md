@@ -62,10 +62,11 @@ Contacts:
 <body>
 
 
-<a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-github"></a>
+<center><a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
+<a href="https://github.com/catarinaamachado" class="fa fa-github"></a>
 <a href="#" class="fa fa-google"></a>
-<a href="#" class="fa fa-linkedin"></a>
+<a href="mailto:{{site.author.url.email}}"{{site.author.url.email}} class="fa fa-google"></a>
+<a href="https://www.linkedin.com/in/catarinaamachado/" class="fa fa-linkedin"></a></center>
 
 
 </body>
