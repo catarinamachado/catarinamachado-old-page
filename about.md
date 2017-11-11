@@ -49,7 +49,7 @@ I love <b>challenges</b> and I'm greatly inspired by the extent of knowledge the
 </head>
 <body>
 
-Contacts:
+
 <center>
 <a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
 <a href="https://github.com/catarinaamachado" class="fa fa-github"></a>
