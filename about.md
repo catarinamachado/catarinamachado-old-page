@@ -12,6 +12,9 @@ Since i meet programming i knew there is it i want to do in my daily life and is
 I love challenges, and what inspires me is the fact that is a billion of things to learn and i want to learn as much that i can, and overcome myself every day.
 
 
-[Facebook:]({{site.author.url.facebook}})
-[Linkedin:]({{site.author.url.linkedin}})
-Email: <a href="mailto:{{site.author.url.email}}">{{site.author.url.email}}</a>
+
+Contacts:
+[Facebook]({{site.author.url.facebook}})
+[Linkedin]({{site.author.url.linkedin}})
+[GitHub]({{site.author.url.github}})
+<a href="mailto:{{site.author.url.email}}">{{site.author.url.email}}</a>
