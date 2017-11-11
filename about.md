@@ -12,13 +12,6 @@ Ever since I've been familiarized with the concept of <b>programming</b>, I knew
 I love <b>challenges</b> and I'm greatly inspired by the extent of knowledge there is still for me to acquire and by the room for personal improvement that such constitutes.
 
 
-Contacts:
-[Facebook]({{site.author.url.facebook}})
-[Linkedin]({{site.author.url.linkedin}})
-[GitHub]({{site.author.url.github}})
-<a href="mailto:{{site.author.url.email}}">{{site.author.url.email}}</a>
-
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
