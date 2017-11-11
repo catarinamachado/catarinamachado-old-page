@@ -56,8 +56,6 @@ Contacts:
 </head>
 <body>
 
-({{site.author.url.github}})
-<a href="mailto:{{site.author.url.email}}">{{site.author.url.email}}</a>
 
 <center>
 <a href="https://www.facebook.com/catarinaamachado" class="fa fa-facebook"></a>
