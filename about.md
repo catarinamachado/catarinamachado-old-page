@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover: '/assets/images/binaryworld.png'
+cover: '/assets/images/tecnology.png'
 ---
 
 Hi! My name is <b>Catarina</b> and I’m 19 years old. Currently I’m on 2nd year in the Computer Software Engineering course at University of Minho.
