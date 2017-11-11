@@ -19,7 +19,6 @@ Contacts:
 <a href="mailto:{{site.author.url.email}}">{{site.author.url.email}}</a>
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,7 +62,7 @@ Contacts:
 <body>
 
 
-<a href=href="https://facebook.com/{{ site.owner.facebook }}" class="fa fa-facebook"></a>
+<a href=href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-github"></a>
 <a href="#" class="fa fa-google"></a>
 <a href="#" class="fa fa-linkedin"></a>
