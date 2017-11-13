@@ -6,7 +6,7 @@ cover: '/assets/images/tecnology.png'
 
 Hi! My name is <b>Catarina</b> and I'm a <b>19 year old student</b> in the 2nd year of the Computer Software Engineering course at University of Minho.
 
-My goal is to do excel in everything I do, at all times, regardless of what it may take.
+My goal is to excel in everything I do, at all times, regardless of what it may take.
 
 Ever since I've been familiarized with the concept of <b>programming</b>, I knew this was what I wanted my career to be based on and, as my academic journey progresses, I'm increasingly sure that Computer Science is the scientific and professional universe in which I want to take part for life.
 
