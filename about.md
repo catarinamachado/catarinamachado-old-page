@@ -4,6 +4,7 @@ title: About me
 cover: '/assets/images/tecnology.png'
 ---
 
+<div align="justify">
 Hi! My name is <b>Catarina</b> and I'm a <b>19 year old student</b> in the 2nd year of the Computer Software Engineering course at University of Minho.
 
 My goal is to excel in everything I do, at all times, regardless of what it may take.
@@ -11,7 +12,7 @@ My goal is to excel in everything I do, at all times, regardless of what it may 
 Ever since I've been familiarized with the concept of <b>programming</b>, I knew this was what I wanted my career to be based on and, as my academic journey progresses, I'm increasingly sure that Computer Science is the scientific and professional universe in which I want to take part for life.
 
 I love <b>challenges</b> and I'm greatly inspired by the extent of knowledge there is still for me to acquire and by the room for personal improvement that such constitutes.
-
+</div>
 
 <html>
 <head>
