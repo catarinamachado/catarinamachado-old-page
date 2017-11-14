@@ -5,7 +5,7 @@ cover: '/assets/images/tecnology.png'
 ---
 
 <div align="justify">
-Hi! My name is <b>Catarina</b> and I'm a <b>19 year old student</b> in the 2nd year of the Computer Software Engineering course at University of Minho.
+Hi! My name is <b>Catarina</b> and I'm a <b>19 year old student</b> in the 2nd year of the Computer Software Engineering course at University of Minho. <br><br>
 
 My goal is to excel in everything I do, at all times, regardless of what it may take.
 
