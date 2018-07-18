@@ -1,6 +1,6 @@
 ## GitHub Page
 
-This is my old GitHub Page. Check out the new one [here](https://catarinaamachado.github.io/) :)
+This is my old GitHub Page. Check out the new one [here](https://catarinaamachado.github.io/) :smile:
 
 
 
